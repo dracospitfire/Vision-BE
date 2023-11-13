@@ -5,9 +5,7 @@ This is the simplest possible python api using flask that responds with:
 Hello, world!
 ```
 
-## Deploy to Cyclic in seconds 
-
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
+## Deploy to Cyclic in seconds
 
 
 ## Run Locally
@@ -26,7 +24,7 @@ Run: `bin/start`
 
 ## Questions / Help
 
-Join us on Discord: [https://discord.cyclic.sh](https://discord.cyclic.sh)
+Join us on Discord: [https://discord](https://discord.tbd)
 
 Enjoy!
 "# Vision-BE" 
