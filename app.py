@@ -1,4 +1,5 @@
 import sys
+from main import *
 from gunicorn.app.wsgiapp import run
 
 if __name__ == '__main__':
